@@ -1,7 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (658)" src="https://github.com/user-attachments/assets/1b220dbc-a8fa-4668-9a5e-444236184e9f" />
-<img width="1920" height="1080" alt="Screenshot (656)" src="https://github.com/user-attachments/assets/4dac5b36-adc7-43c0-849e-7f136cab0cef" />
-<img width="1920" height="1080" alt="Screenshot (658)" src="https://github.com/user-attachments/assets/df6d0aaf-16bd-42f4-9b56-1d96773acfd3" />
-<img width="1920" height="1080" alt="Screenshot (656)" src="https://github.com/user-attachments/assets/28875856-8be2-4d1e-83be-d83562e74be5" />
+
 # Multi-Platform Avionics System Architecture Portfolio
 ## Model-Based Systems Engineering (MBSE) Repository
 
