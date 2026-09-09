@@ -81,5 +81,5 @@ Passed the complete multi-project repository through the Capella Model Validatio
 <img width="1914" height="1017" alt="Screenshot (498)" src="https://github.com/user-attachments/assets/31c4aebc-9418-46d7-a646-d176b712672d" />
 
 * **System Optimization Update (September 2026):** Successfully integrated multi-node physical constraint mapping elements directly into the PAB system registry. The model architecture now dynamically tracks payload mass tolerances across active telemetry channels with zero database compilation warnings.
-<img width="1920" height="1080" alt="Screenshot (658)" src="https://github.com/user-attachments/assets/e8955f98-4d7e-4240-9846-00f04ebfba4f" />
-<img width="1920" height="1080" alt="Screenshot (656)" src="https://github.com/user-attachments/assets/03d043d2-01db-459d-8eb4-7dac91d660f1" />
+<img width="1920" height="1021" alt="Screenshot (658)" src="https://github.com/user-attachments/assets/357e1837-0944-47d0-89ae-bb8f2553e725" />
+<img width="1903" height="1005" alt="Screenshot (656)" src="https://github.com/user-attachments/assets/3ea4f9db-d10f-4952-90d0-8959e32c702b" />
