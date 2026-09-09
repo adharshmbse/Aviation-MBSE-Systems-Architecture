@@ -60,6 +60,9 @@ Deployed robust physical layer architectures mapping out internal electronic cir
 *   **Hosted Avionics Modules:** Configured `flight control computer board`, `autopilot flight computer`, `winch telemetry control`, and `power distribution board`.
 *   **Avionics Bus Network:** Routed dedicated real-time data links, including `radio command bus`, `avionics data bus`, and `cargo manifest data` tracks.
 *   **Physical Constraint Mapping:** Integrated explicit physical engineering weights directly inside the property registries (`unit mass = 0.45` to `1.2` units) to mathematically calculate multi-tier hardware mass thresholds.
+<img width="1920" height="988" alt="Screenshot (493)" src="https://github.com/user-attachments/assets/aaf7a38a-ea6e-4dbe-b96e-cf07eae9d14d" />
+<img width="1920" height="1011" alt="Screenshot (490)" src="https://github.com/user-attachments/assets/f0e9642e-b37a-4bda-9197-4375217cc0fe" />
+
 
  3. End-to-End Traceability Matrix Verification
  
