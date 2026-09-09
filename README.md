@@ -57,8 +57,8 @@ Natively structured and compiled formal Data Class Diagrams (`[CDB]`) within the
 *   `cargo weight : Decimal` — Heavy mass parameters managed via strict precision constraints.
 *   `Target latitude / longitude / altitude : Float` — Floating-point numeric strings for real-time navigation autopilot calculations.
 *   *Verification Status:* 100% healthy model registry tracking with zero `<undefined>` token anomalies or data packet fragmentation.
-<img width="1920" height="1080" alt="Screenshot (496)" src="https://github.com/user-attachments/assets/712fdf49-88f0-4dd6-a994-3ce574e8343e" />
-<img width="1920" height="1080" alt="Screenshot (495)" src="https://github.com/user-attachments/assets/4eee39c6-6564-47c2-8564-760f6f63e2cc" />
+<img width="1863" height="998" alt="Screenshot (495)" src="https://github.com/user-attachments/assets/71126cab-a15f-44fb-8eb5-3aeee137dd1b" />
+<img width="1895" height="1019" alt="Screenshot (496)" src="https://github.com/user-attachments/assets/fbaf8361-bb96-4d7e-a35a-25fadcc7e9c9" />
 
 
 2. Physical Architecture Allocation (`[PAB]`) & Mass Budgeting
