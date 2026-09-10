@@ -21,7 +21,7 @@ By shifting away from traditional document-based systems engineering, this portf
 * **System Boundaries:** Central avionics computing chassis hosting distinct mechatronic physical layers.
 * **Hardware/Software Nesting:** The abstract `Cargo Management Subsystem` software logic module is directly encapsulated inside the physical `winch telemetry control board` hardware board circuit enclosure.
 * **Fail-Safe & Redundancy:** Engineered a multi-channel hardware communication pipeline routing data between the core `flight control computer board`, a high-power satellite radio transceiver module, and a redundant `backup inertial navigation board imu` to secure vehicle tracking during complete radio blackout states.
-<img width="1920" height="1023" alt="Screenshot (284)" src="https://github.com/user-attachments/assets/22792829-48b4-4ada-9a31-26bf7f6b0062" />
+<img width="1903" height="1009" alt="Screenshot (742)" src="https://github.com/user-attachments/assets/e81de6ab-ec33-4400-bd43-e1cbfb2ae714" />
 <img width="1920" height="1000" alt="Screenshot (286)" src="https://github.com/user-attachments/assets/4ea0598f-c7e4-4629-b297-d854f9010a8a" />
 
 ---
@@ -30,7 +30,7 @@ By shifting away from traditional document-based systems engineering, this portf
 * **Mission Profile:** Emergency Medical Supply Logistics (Clean, high-speed payload transit routing between hospitals and remote emergency camps).
 * **Operational Scope:** Engineered for high-speed, critical medical payload transport, linking city hospital hubs directly to distant field medical stations during crisis scenarios.
 * **Avionics Routing Configuration:** Multi-node component architecture linking flight management computer boards, autonomous payload locking actuators, and power distribution systems cleanly across a shared avionics data network.
-<img width="1920" height="1018" alt="Screenshot (283)" src="https://github.com/user-attachments/assets/30e624c8-cd82-4bda-b264-8a35cfdfaee7" />
+<img width="1920" height="984" alt="Screenshot (741)" src="https://github.com/user-attachments/assets/02559511-9044-4cdf-a0e0-1dab39bc48d2" />
 <img width="1920" height="1005" alt="Screenshot (285)" src="https://github.com/user-attachments/assets/8ca47fdd-ea62-4614-9db5-2652da825601" />
 
 ---
